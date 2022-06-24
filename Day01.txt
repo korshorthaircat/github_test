@@ -1,5 +1,5 @@
 1. HTML이란?
-    - HTML은 Hyper Text Markup Language의 줄임말로111
+    - HTML은 Hyper Text Markup Language의 줄임말로1112222222222
       하이퍼텍스트를 마크업하는 언어
     - 하이퍼텍스트 : 웹 사이트에서 링크를 클릭하면 다른 문서나 
                     다른 사이트로 즉시 이동되는 기능
